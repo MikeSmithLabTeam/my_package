@@ -11,7 +11,7 @@ dependencies = [
     "numpy>=1.21.0",
     "pytest==6.2.4",
     "matplotlib",
-    "filehandling @ git+https://github.com/mikesmithlab/filehandling.git"
+    "filehandling @ git+https://github.com/mikesmithlabteam/filehandling.git"
 ]
 
 [tool.pytest.ini_options]
